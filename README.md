@@ -2,8 +2,6 @@
 
 This project analyzes customer churn for a telecommunications company, identifying key factors that contribute to churn. The goal is to provide insights that can help the company reduce churn and retain customers by using various data analysis techniques.
 
----
-
 ## **Overview**
 This project focuses on understanding the factors that drive customer churn in a telecom company. Churn is defined as the percentage of customers that stop using the company's services within a given time period. By analyzing various customer-related features such as contract type, monthly charges, and internet services, we aim to derive actionable insights.
 
@@ -12,7 +10,6 @@ The analysis utilizes visualizations, statistical methods, and machine learning 
 - **Analyze service-related features** and their impact on churn.
 - **Provide recommendations** to reduce churn and improve customer retention.
 
----
 
 ## **Data**
 The dataset used in this project contains customer information, such as:
@@ -21,7 +18,6 @@ The dataset used in this project contains customer information, such as:
 - **Charges:** Monthly charges and total charges.
 - **Churn:** Whether the customer churned or not.
 
----
 
 ## **Key Findings**
 
@@ -39,7 +35,6 @@ The dataset used in this project contains customer information, such as:
 4. **High Monthly Charges:**
    - Customers paying over **\$70 per month** are **45% more likely** to churn than those paying less.
 
----
 
 ## **Visualizations**
 The project contains several key visualizations:
@@ -47,7 +42,6 @@ The project contains several key visualizations:
 - **Boxplots for Tenure, Monthly Charges, and Total Charges:** These reveal the spread and central tendencies of numerical features.
 - **Contract Type Analysis:** A plot showing churn based on different contract types.
 
----
 
 ## **Technologies Used**
 - **Python:** Core programming language for data manipulation and analysis.
@@ -55,5 +49,4 @@ The project contains several key visualizations:
 - **Pandas:** For data manipulation and cleaning.
 - **Matplotlib & Seaborn:** For creating visualizations.
 
----
 
